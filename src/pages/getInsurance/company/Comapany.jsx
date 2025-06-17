@@ -242,10 +242,10 @@ export const ComapanyInsurance = () => {
               </label>
             </div>
             
-            <button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-md font-medium flex items-center transition-colors">
+            {/* <button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-md font-medium flex items-center transition-colors">
               View Insurance
               <ArrowRight className="w-4 h-4 ml-2" />
-            </button>
+            </button> */}
           </div>
         {/* </div> */}
       </div>
@@ -434,10 +434,10 @@ export const ComapanyInsurance = () => {
             </label>
           </div>
           
-          <button className="w-full bg-blue-600 hover:bg-blue-700 text-white py-3 rounded-md font-medium flex items-center justify-center transition-colors">
+          {/* <button className="w-full bg-blue-600 hover:bg-blue-700 text-white py-3 rounded-md font-medium flex items-center justify-center transition-colors">
             View Insurance
             <ArrowRight className="w-4 h-4 ml-2" />
-          </button>
+          </button> */}
         </div>
       </div>
     </div>
